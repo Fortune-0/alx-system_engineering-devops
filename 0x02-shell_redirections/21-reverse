@@ -1,2 +1,2 @@
 #!/bin/bash
-rev <<<"input_data_here"
+rev
