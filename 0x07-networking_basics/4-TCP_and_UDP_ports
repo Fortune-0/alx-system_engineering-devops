@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script displays listening ports with the PID and name of the program
 # It uses netstat with the following options:
 # -t - Show TCP ports
