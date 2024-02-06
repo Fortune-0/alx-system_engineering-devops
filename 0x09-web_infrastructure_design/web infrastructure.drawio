@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T23:50:58.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.18" etag="FIXeolLI819HpOObbP2Q" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T00:44:36.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="yGRC0SzJ0isGoSqQ1vx4" version="23.0.2" type="github">
   <diagram name="Page-1" id="UytFIJBBEG694bEX4Fh9">
-    <mxGraphModel>
+    <mxGraphModel dx="1023" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="580" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="339" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pSNilD8N5I2ruYLXZMeT-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
+          <mxGeometry x="131" y="230" width="76.5" height="92.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
