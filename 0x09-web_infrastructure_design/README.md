@@ -1,6 +1,6 @@
 Web infrastructure refers to the underlying framework, hardware, software, and services that form the foundation of the World Wide Web. It encompasses all the components and technologies necessary to support the development, hosting, and functioning of websites and web applications. Key elements of web infrastructure include:
 
-Web Servers: These are computers or software applications that store and serve website content to users over the internet. Popular web server software includes Apache, Nginx, and Microsoft Internet Information Services (IIS).
+Web Servers: These are computers or software applications that store and serve website content to users over the internet. Popular web server software includes Apache, Nginx, and Microsoft Internet Information Services (IIS)
 
 Databases: Web applications often require databases to store and retrieve data. MySQL, PostgreSQL, MongoDB, and Microsoft SQL Server are examples of database management systems used in web infrastructure.
 
