@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T03:28:06.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="3gP2wbUBIIN2SZUppid6" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T03:31:17.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="14OFDfhiTsrENoX_fJsy" version="23.1.1" type="github">
   <diagram name="Page-1" id="UytFIJBBEG694bEX4Fh9">
     <mxGraphModel dx="1112" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,9 +13,6 @@
         <mxCell id="pSNilD8N5I2ruYLXZMeT-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
           <mxGeometry x="283" y="353.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pSNilD8N5I2ruYLXZMeT-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="590" y="220" width="41" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="eUEfTirzM8Af57HB3OFG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pSNilD8N5I2ruYLXZMeT-5" target="eUEfTirzM8Af57HB3OFG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -27,9 +24,6 @@
         </mxCell>
         <mxCell id="pSNilD8N5I2ruYLXZMeT-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" parent="1" vertex="1">
           <mxGeometry x="230" y="576.9" width="53" height="63.8" as="geometry" />
-        </mxCell>
-        <mxCell id="pSNilD8N5I2ruYLXZMeT-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" parent="1" vertex="1">
-          <mxGeometry x="60" y="40" width="76.5" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="eUEfTirzM8Af57HB3OFG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8-D-bgn7aszmPkUvuUCa-1" target="eUEfTirzM8Af57HB3OFG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
