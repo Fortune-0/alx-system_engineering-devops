@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Configure ssh client so that you can connect to a server without typing a password.
+
+Host *
+    HashKnownHosts yes
+    GSSAPIAuthentication yes
+    GSSAPIDelegateCredentials no
+    User your_username
+    IdentityFile ~/.ssh/school
+    PreferredAuthentications publickey
+    PasswordAuthentication no
