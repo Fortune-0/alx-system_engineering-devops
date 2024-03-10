@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Configures an Nginx server to listen on port 80
+
+#removes the default Nginx config. file
+rm /etc/nginx/sites-enabled/default
+
+ln -af /etc/nginx/sites-available/default  /etc/nginx/sites-enabled/default
+# restart nginx
+service nginx restart
+#terminate any running nginx process
+#kill "$(pgrep 'nginx' | head -1)"
