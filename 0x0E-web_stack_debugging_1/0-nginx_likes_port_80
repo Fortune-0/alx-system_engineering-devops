@@ -4,7 +4,7 @@
 #removes the default Nginx config. file
 rm /etc/nginx/sites-enabled/default
 
-ln -af /etc/nginx/sites-available/default  /etc/nginx/sites-enabled/default
+ln -s /etc/nginx/sites-available/default  /etc/nginx/sites-enabled/default
 # restart nginx
 service nginx restart
 #terminate any running nginx process
