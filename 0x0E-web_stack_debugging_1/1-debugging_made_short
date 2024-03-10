@@ -2,8 +2,8 @@
 # Configures an Nginx server to listen on port 80
 
 #creates a symbolic link(-a option) between the nginx configuration file
-ln -af /etc/nginx/sites-available/default  /etc/nginx/sites-enabled/default
+ln -sf /etc/nginx/sites-available/default  /etc/nginx/sites-enabled/default
 # restart nginx
-services nginx start
+service nginx start
 #terminate any running nginx process
 kill "$(pgrep 'nginx' | head -1)"
