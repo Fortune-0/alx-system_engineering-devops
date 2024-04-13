@@ -17,8 +17,8 @@ def get_dashboard_id(api_key, app_key, dashboard_name):
     return None
 
 # Replace these variables with your Datadog API and Application keys
-api_key = "ee0b44993229a9cb9347a6887d4da9ce"
-app_key = "77be40f9388dfcbbc0629f0b82078fcc9baef794"
+api_key = "API KEY"
+app_key = "APP KEY"
 
 # Replace this with the name of your dashboard
 dashboard_name = "Air"
